@@ -1,6 +1,6 @@
-![Sheen](https://github-readme-stats.vercel.app/api?username=tishion&count_private=true&show_icons=true&theme=highcontrast)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tishion&count_private=true&show_icons=true&theme=highcontrast" alt="Sheen">
+</p>
 
 <!--
 ### Hi there 👋
