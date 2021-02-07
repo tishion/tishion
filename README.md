@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tishion&count_private=true&show_icons=true&theme=highcontrast" alt="Sheen">
-</p>
-
 <!--
 ### Hi there 👋
 **tishion/tishion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/tishion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tishion&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+</a>
+
+<a href="https://github.com/tishion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishion&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
 
 <!--
 # <div align="center">[⚡Job Opportunity 招聘⚡](https://github.com/tishion/Job-Opportunity)</div>
