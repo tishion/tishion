@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/tishion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tishion&show_icons=true&line_height=44&theme=blue-green" alt="Sheen Tian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tishion&show_icons=true&line_height=44&theme=" alt="Sheen Tian's GitHub Stats" />
 </a>
 
 <a href="https://github.com/tishion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishion&langs_count=8&theme=blue-green&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishion&langs_count=8&theme=&layout=donut" />
 </a>
